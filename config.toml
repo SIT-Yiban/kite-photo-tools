@@ -1,0 +1,26 @@
+[pyq]
+name = "pyq.png"
+font = "simsun.ttc"
+color = [ 0, 0, 0,]
+
+[pyq2]
+name = "pyq2.png"
+font = "simsun.ttc"
+color = [ 0, 0, 0,]
+
+[pyq3]
+name = "pyq3.png"
+font = "simsun.ttc"
+color = [ 0, 0, 0,]
+
+[pyq.rect]
+left_top = [ 361, 129,]
+right_bottom = [ 1114, 283,]
+
+[pyq2.rect]
+left_top = [ 318, 136,]
+right_bottom = [ 665, 216,]
+
+[pyq3.rect]
+left_top = [ 477, 120,]
+right_bottom = [ 800, 226,]
